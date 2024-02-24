@@ -11,7 +11,7 @@ using SalesWebMvc.Data;
 namespace SalesWebMvc.Migrations
 {
     [DbContext(typeof(SalesWebMvcContext))]
-    [Migration("20240222182523_SalesWebMvc")]
+    [Migration("20240223190351_SalesWebMvc")]
     partial class SalesWebMvc
     {
         /// <inheritdoc />
